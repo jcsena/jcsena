@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Co-Founder & software engineer at [Goaly Inc](https://goalyapps.com) in Panama, Panama City 🌆
+
+- 🔭 I’m currently working on Goaly App.
+- ☕ I’m learning Swift.
+- 🧑‍💻 I’m looking to collaborate on open source projects.
+- 💬 Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).
+- 😄 Pronouns: he/him/his.
+- ⚡ Fun fact: I have a pet dog named Blake.
+
 <!--
 **jcsena/jcsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
