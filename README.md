@@ -9,6 +9,8 @@ I'm Co-Founder & software engineer at [Goaly Inc](https://goalyapps.com) in Pana
 - 😄 Pronouns: he/him/his.
 - ⚡ Fun fact: I have a pet dog named Blake.
 
+<img src="https://github-readme-stats.vercel.app/api?username=jcsena&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
 <!--
 **jcsena/jcsena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
