@@ -11,7 +11,7 @@ I'm Co-Founder & software engineer at [Goaly Inc](https://goalyapps.com) in Pana
 
 [![Linkedin: iamjuliosena](https://img.shields.io/badge/-iamjuliosena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamjuliosena/)](https://www.linkedin.com/in/iamjuliosena/)
 [![GitHub jcsena](https://img.shields.io/github/followers/jcsena?label=follow&style=social)](https://github.com/jcsena)
-[![website](https://img.shields.io/badge/PortfolioWebsite-juliosena.com-2648ff?style=flat-square&logo=google-chrome)](https://juliosena.com/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-juliosena.com-2648ff?style=flat-square&logo=google-chrome)](https://juliosena.com/projects)
 
 
 **Languages and Tools:**  
